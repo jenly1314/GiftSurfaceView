@@ -23,7 +23,7 @@ import android.view.SurfaceView;
 
 /**
  * GiftSurfaceView 最初出自于2014年开发HalloStar项目时所写，主要用于HalloStar项目直播间的送礼物动画。
- * 现在想来，那夕阳下的奔跑，是我失去的青春。因前几天，刚高仿全民TV，所以想起，稍加改善，以此记录。
+ * 现在想来，那夕阳下的奔跑，是我逝去的青春。因前几天，刚高仿全民TV，所以想起，稍加改善，以此记录。
  * @author Jenly <a href="mailto:jenly1314@gmail.com">Jenly</a>
  * @since 2017/3/28
  */
