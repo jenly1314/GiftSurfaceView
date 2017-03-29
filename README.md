@@ -34,6 +34,7 @@ compile 'com.king.view:giftsurfaceview:1.0.0'
 ```
 
 ### 示例
+
 ```Java
     public void updateGiftSurfaceView(int type){
 
@@ -87,7 +88,7 @@ compile 'com.king.view:giftsurfaceview:1.0.0'
 
     }
 ```
-更多详情请下载查看。
+以上为部分代码使用示例，更多详情请下载查看。
 
 
 ## 关于我
