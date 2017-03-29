@@ -1,6 +1,6 @@
 
 # GiftSurfaceView
-[![Download](app/app-release.apk)
+[![Download]](app/app-release.apk)
 [![](https://jitpack.io/v/jenly1314/GiftSurfaceView.svg)](https://jitpack.io/#jenly1314/GiftSurfaceView)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
 [![Blog](https://img.shields.io/badge/blog-Jenly-9933CC.svg)](http://blog.csdn.net/jenly121)
