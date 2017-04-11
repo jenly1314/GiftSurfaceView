@@ -1,4 +1,4 @@
-package com.king.view;
+package com.king.view.giftsurfaceview;
 
 import org.junit.Test;
 

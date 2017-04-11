@@ -22,11 +22,10 @@
      FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
      DEALINGS IN THE SOFTWARE.
  */
-package com.king.view.util;
+package com.king.view.giftsurfaceview.util;
 
 import android.content.Context;
 import android.graphics.Point;
-import android.util.Log;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package com.king.view;
+package com.king.view.giftsurfaceview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

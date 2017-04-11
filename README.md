@@ -18,17 +18,17 @@ GiftSurfaceView 最初出自于2014年开发HalloStar项目时所写，主要用
 <dependency>
   <groupId>com.king.view</groupId>
   <artifactId>giftsurfaceview</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <type>pom</type>
 </dependency>
 ```
 ### Gradle:
 ```gradle
-compile 'com.king.view:giftsurfaceview:1.0.0'
+compile 'com.king.view:giftsurfaceview:1.1.0'
 ```
 ### Lvy:
 ```lvy
-<dependency org='com.king.view' name='giftsurfaceview' rev='1.0.0'>
+<dependency org='com.king.view' name='giftsurfaceview' rev='1.1.0'>
   <artifact name='$AID' ext='pom'></artifact>
 </dependency>
 ```

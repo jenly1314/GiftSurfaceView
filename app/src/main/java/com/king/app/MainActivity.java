@@ -8,8 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.king.view.GiftSurfaceView;
-import com.king.view.util.PointUtils;
+import com.king.view.giftsurfaceview.GiftSurfaceView;
+import com.king.view.giftsurfaceview.util.PointUtils;
 
 import java.io.IOException;
 
